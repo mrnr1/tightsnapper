@@ -1,4 +1,4 @@
-# tightsnapper
+# TightSnapper
 TightSnapper provides the ability to take snapshots or record a VNC Viewer session. TightSnapper has features such as the ability
 to change snapshot intervals, duration of continuous snapshots and compression on output jpegs. 
 
