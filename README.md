@@ -17,3 +17,6 @@ Todo:
 
 Bugs:
 -- 
+
+
+![User Interface](https://github.com/mrnr1/tightsnapper/blob/master/Screenshot.png)
