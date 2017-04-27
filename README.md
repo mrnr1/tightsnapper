@@ -7,9 +7,13 @@ Requires:
 
 
 Todo:
+--
 1.) Directly take snapshots of the VNC Server session, rather than taking snapshots of a window on a local VNC Viewer session.
+
 2.) Allow for multiple viewers with different file output naming conventions for each client.
+
 4.) Change PrintWindow method to allow for capturing of a session while the viewer is minimized.
+
 
 Bugs:
 -- 
