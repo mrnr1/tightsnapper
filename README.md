@@ -12,7 +12,7 @@ Todo:
 
 2.) Allow for multiple viewers with different file output naming conventions for each client.
 
-4.) Change PrintWindow method to allow for capturing of a session while the viewer is minimized.
+3.) Change PrintWindow method to allow for capturing of a session while the viewer is minimized.
 
 
 Bugs:
