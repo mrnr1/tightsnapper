@@ -14,4 +14,6 @@ Todo:
 
 3.) Change PrintWindow method to allow for capturing of a session while the viewer is minimized.
 
+--
+
 ![User Interface](https://github.com/mrnr1/tightsnapper/blob/master/Screenshot.png)
