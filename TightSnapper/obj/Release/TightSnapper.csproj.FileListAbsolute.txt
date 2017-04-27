@@ -1,0 +1,8 @@
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\bin\Release\TightSnapper.exe.config
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\bin\Release\TightSnapper.exe
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\bin\Release\TightSnapper.pdb
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\obj\Release\TightSnapper.Form1.resources
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\obj\Release\TightSnapper.Properties.Resources.resources
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\obj\Release\TightSnapper.csproj.GenerateResource.Cache
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\obj\Release\TightSnapper.exe
+C:\Users\adm\Documents\Visual Studio 2015\Projects\TightSnapper\TightSnapper\obj\Release\TightSnapper.pdb
