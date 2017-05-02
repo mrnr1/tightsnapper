@@ -5,6 +5,7 @@ to change snapshot intervals, duration of continuous snapshots and compression o
 Requires:
 .Net Framework v4 minimum.
 
+We recommend that you install DFMirage Driver (a recommended driver) from http://www.demoforge.com/dfmirage.htm This driver dramatically increases visual performance by detecting screen updates and grabbing pixel data in a very efficient way.
 
 Todo:
 --
